@@ -19,9 +19,9 @@ function onTick() {
         complete();
         return;
     }
-}
+};
 
 function complete() {
     clearInterval(timer);
     timer = null;
-}
+};
