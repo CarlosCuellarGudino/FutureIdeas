@@ -17,6 +17,7 @@ function onTick() {
     char++
     if(char === splitText.lenght){
         complete();
+        console.log("process complete");
         return;
     }
 }
