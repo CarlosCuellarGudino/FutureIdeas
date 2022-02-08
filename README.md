@@ -9,4 +9,16 @@ Will aslo help testing github worflow.
 :ocean::whale:
 
 ### Updates
-checkout changes pushed directly
+Changes pushed directly from working local branch to origin.
+This creates a new remote linked branch.
+
+```
+git push origin working_branch
+```
+
+<dl>
+  <dt>Only the first time the reote branch is created</dt>
+  <dd>`git push origin working_branch`</dd>
+  <dt>further commits/updates</dt>
+  <dd>`git push`</dd>
+</dl>
