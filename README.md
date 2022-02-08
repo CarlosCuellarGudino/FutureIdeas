@@ -9,10 +9,11 @@ Will aslo help testing github worflow.
 <br/>:ocean::whale:
 
 ### Updates
-Changes pushed directly from working local branch to origin.
-<br/>This creates a new remote linked branch.
-
 <dl>
-  <dt>Single line of code</dt>
-  <dd>```git push origin working_branch```</dd>
+  <dt>Push Branch</dt>
+  <dd>Changes pushed directly from working local branch to origin.<br>This creates and updates a new remote linked branch.</dd>
+  <dd>
+  
+  `git push origin working_branch`
+  </dd>
 </dl>
