@@ -5,4 +5,4 @@ This repo will be used as a "canvas" for general ideas, without a specific code 
 so it might have things in Lua, Javascript, Python or some other language.
 
 ## Tests
-Will aslo help testing github worflow
+Will aslo help testing github worflow.
