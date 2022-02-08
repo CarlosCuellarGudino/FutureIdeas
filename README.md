@@ -6,17 +6,13 @@ so it might have things in Lua, Javascript, Python or some other language.
 
 ## Tests
 Will aslo help testing github worflow.
-:ocean::whale:
+<br/>:ocean::whale:
 
 ### Updates
 Changes pushed directly from working local branch to origin.
-This creates a new remote linked branch.
-
-```
-git push origin working_branch
-```
+<br/>This creates a new remote linked branch.
 
 <dl>
   <dt>Single line of code</dt>
-  <dd>`git push origin working_branch`</dd>
+  <dd>```git push origin working_branch```</dd>
 </dl>
