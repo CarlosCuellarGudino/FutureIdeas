@@ -17,8 +17,6 @@ git push origin working_branch
 ```
 
 <dl>
-  <dt>Only the first time the reote branch is created</dt>
+  <dt>Single line of code</dt>
   <dd>`git push origin working_branch`</dd>
-  <dt>further commits/updates</dt>
-  <dd>`git push`</dd>
 </dl>
