@@ -21,6 +21,6 @@ Will aslo help testing github worflow.
 #### H4 test
 just to know
 <br>
-[staging](https://admin:sugaristhenewfat@staging.placeit.net)<br>
-[staging2](https://admin:sugaristhenewfat@staging2.placeit.net)<br>
-[staging3](https://admin:sugaristhenewfat@staging3.placeit.net)
+[staging](https://staging.placeit.net)<br>
+[staging2](https://staging2.placeit.net)<br>
+[staging3](https://staging3.placeit.net)
