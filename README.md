@@ -120,20 +120,20 @@ Example:
 <br>
 <br>
 
-#### `variationsProcessor(renderer:function;optional)(value:object)(stageData:array) : Array(Cancellable Promise)`
+#### variationsProcessor(renderer:function;optional)(value:object)(stageData:array) : Array(Cancellable Promise)
 
 Receives:
->|Name|Type|Description|
->|-|-|-|
->|renderer|Function|A custom render function that will resolve into a base64 image of a stage.<br>Said function will receive as arguments an object containing the structure and ui.|
->|value|Array|An array of [value](#value--object) objects containing the user changes|
->|stageData|Object|A [stageData](#stagedata--object) object to prepare the data for the stage to start the render process.
+|Name|Type|Description|
+|-|-|-|
+|renderer|Function|A custom render function that will resolve into a base64 image of a stage.<br>Said function will receive as arguments an object containing the structure and ui.|
+|value|Array|An array of [value](#value--object) objects containing the user changes|
+|stageData|Object|A [stageData](#stagedata--object) object to prepare the data for the stage to start the render process.
 
 
 Returns:
->|Name|Type|Description|
->|-|-|-|
->|Array(CancellablePromise)|Promise Array|An Array of CancellablePromise whose resolution will be a base64 image of the stage|
+|Name|Type|Description|
+|-|-|-|
+|Array(CancellablePromise)|Promise Array|An Array of CancellablePromise whose resolution will be a base64 image of the stage|
 
 
 Example:
